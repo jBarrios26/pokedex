@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:pokedex/components/error_page/widgets/pokemon_button.dart';
 
 class ErrorPage extends StatelessWidget {

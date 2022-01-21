@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: 'Pokedex',
         theme: PokemonTheme.pokemonTheme,
-        home: const PokemonListPage());
+        home: const PokemonListPage(),
+        debugShowCheckedModeBanner: false);
   }
 }
