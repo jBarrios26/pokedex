@@ -20,7 +20,7 @@ class PokemonInfo extends StatelessWidget {
         child: Row(
           children: [
             FadeInImage.assetNetwork(
-              placeholder: "assets/images/pikachu_lost.png",
+              placeholder: "assets/images/placeholder.png",
               image: pokemonPhoto,
               height: 50,
               width: 50,

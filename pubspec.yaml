@@ -68,8 +68,7 @@ flutter:
   assets:
     - assets/images/pokebalsvg.svg
     - assets/images/loading.gif
-    - assets/images/404notfound.svg
-    - assets/images/pikachu.svg
+    - assets/images/placeholder.png
     - assets/images/pikachu_lost.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -99,8 +98,8 @@ flutter:
   fonts:
     - family: Helvetica
       fonts:
-        - asset: assets\fonts\Helvetica_Neue_LT_65_Medium.ttf
-        - asset: assets\fonts\Helvetica_Neue_LT_75_Bold.ttf
+        - asset: assets/fonts/Helvetica_Neue_LT_65_Medium.ttf
+        - asset: assets/fonts/Helvetica_Neue_LT_75_Bold.ttf
           weight: 700
-        - asset: assets\fonts\Helvetica_Neue_LT_76_Bold_Italic.ttf
+        - asset: assets/fonts/Helvetica_Neue_LT_76_Bold_Italic.ttf
           style: italic
